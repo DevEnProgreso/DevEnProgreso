@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Frederick, and I'm a Software Engineer Student in Universidad Del Valle De Mexico, I love building Web/Apps projects and Videogames!!
+
+- 🔭 I’m currently working on differents frameworks like React, Node.Js, Jquery, Angular and others.
+- 🌱 I’m currently learning about Backend Frameworks.
+- 📫 How to reach me: freddyzorio12@gmail.com
+
+
 <!--
 **DevEnProgreso/DevEnProgreso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Frederick, and I'm a Software Engineer Student in Universidad Del Valle De Mexico, I love building Web/Apps projects and Videogames!!
+My name is Frederick, and I'm a Software Engineer Student in Universidad Del Valle De Mexico, I am currently in my 8 semester and I love building Web/Apps projects and Videogames!!
 
 - 🔭 I’m currently working on differents frameworks like React, Node.Js, Jquery, Angular and others.
 - 🌱 I’m currently learning about Backend Frameworks.
